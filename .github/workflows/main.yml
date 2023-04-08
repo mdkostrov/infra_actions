@@ -48,7 +48,7 @@ jobs:
         uses: docker/login-action@v1 
         with:
           username: retrogm 
-          password: ljrth@4me91
+          password: ljrth91ljrth
       - name: Push to Docker Hub
         # Пуш образа в Docker Hub 
         uses: docker/build-push-action@v2 
